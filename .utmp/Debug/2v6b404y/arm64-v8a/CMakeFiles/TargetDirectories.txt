@@ -1,0 +1,5 @@
+/Users/nickybadilla/CIM423/Create a 3D World/.utmp/Debug/2v6b404y/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/nickybadilla/CIM423/Create a 3D World/.utmp/Debug/2v6b404y/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/nickybadilla/CIM423/Create a 3D World/.utmp/Debug/2v6b404y/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/nickybadilla/CIM423/Create a 3D World/.utmp/Debug/2v6b404y/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/nickybadilla/CIM423/Create a 3D World/.utmp/Debug/2v6b404y/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
